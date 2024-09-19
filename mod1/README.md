@@ -7,5 +7,6 @@
 4. Google colab
 ![image](https://github.com/user-attachments/assets/cbbcbce4-0b09-413c-bf08-67775968cd15)
 5. PyCharm
+![image](https://github.com/user-attachments/assets/b15434f5-6745-4465-82b0-5f49f2562c66)
 6. Visual Studio code
 ![image](https://github.com/user-attachments/assets/b2791c2c-7bc1-46d9-a544-6dc2e9dded85)
