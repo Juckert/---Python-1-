@@ -5,6 +5,7 @@
 3. IDLE
 ![image](https://github.com/user-attachments/assets/04418187-9def-4ab1-bd39-e6f6e7fca3ec)
 4. Google colab
+![image](https://github.com/user-attachments/assets/cbbcbce4-0b09-413c-bf08-67775968cd15)
 5. PyCharm
 6. Visual Studio code
 ![image](https://github.com/user-attachments/assets/b2791c2c-7bc1-46d9-a544-6dc2e9dded85)
