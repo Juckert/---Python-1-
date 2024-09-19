@@ -1,4 +1,5 @@
 1. Интерактивный режим
+![image](https://github.com/user-attachments/assets/e85a99b2-bf88-4a73-ae99-125988e713ae)
 2. Скриптом из командной строки
 3. IDLE
 4. Google colab
