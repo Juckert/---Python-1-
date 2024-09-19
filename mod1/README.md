@@ -3,6 +3,7 @@
 2. Скриптом из командной строки
 ![image](https://github.com/user-attachments/assets/e85a99b2-bf88-4a73-ae99-125988e713ae)
 3. IDLE
+![image](https://github.com/user-attachments/assets/04418187-9def-4ab1-bd39-e6f6e7fca3ec)
 4. Google colab
 5. PyCharm
 6. Visual Studio code
