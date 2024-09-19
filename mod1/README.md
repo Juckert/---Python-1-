@@ -1,4 +1,5 @@
 1. Интерактивный режим
+![image](https://github.com/user-attachments/assets/74df9349-fba1-43fc-bf6f-f47af271221b)
 2. Скриптом из командной строки
 ![image](https://github.com/user-attachments/assets/e85a99b2-bf88-4a73-ae99-125988e713ae)
 3. IDLE
